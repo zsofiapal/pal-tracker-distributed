@@ -6,4 +6,5 @@ build
 *.iws
 .DS_Store
 .env
+.out
 ci/variables.yml
